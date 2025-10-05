@@ -147,4 +147,4 @@ This project is open-source and free to use for learning and personal developmen
 
 ---
 
-**Developed with ❤️ for learning PHP & MySQL.**
+**Developed by Shivansh Bajpai with ❤️ for learning PHP & MySQL.**
